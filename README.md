@@ -1,4 +1,4 @@
-# Twitter sentiment analysis
+# Twitter sentiment analysis:smiley::blush::unamused::pensive::triumph:
 ## Overview  
 The goal of this project is to learn how to pull twitter data, using the [tweepy](http://www.tweepy.org/) wrapper around the twitter API, and how to perform simple sentiment analysis using [the vaderSentiment](https://github.com/cjhutto/vaderSentiment) library. 
 
